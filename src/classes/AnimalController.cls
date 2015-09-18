@@ -10,6 +10,7 @@ public with sharing class AnimalController {
      public List<selectOption> availableRecordTypes {get {return getRecordTypes();} set;}  // the full list of herbivore, carnivore
     
     // like joey,
+    // Or Ziggi. Don't forget Ziggi!! 
     public String AnimalName 
     { get { if (AnimalName == null) AnimalName = ''; return AnimalName; }
       set ;
