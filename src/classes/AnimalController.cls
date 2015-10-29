@@ -11,6 +11,7 @@ public with sharing class AnimalController {
     
     // like joey,
     // Or Ziggi. Don't forget Ziggi!! 
+    // AndPiper too! 
     public String AnimalName 
     { get { if (AnimalName == null) AnimalName = ''; return AnimalName; }
       set ;
