@@ -66,7 +66,7 @@ public with sharing class AnimalController {
      }
     
     // record type methods (herbivore/carnivore)
-    // I added a comment here
+    // I added a comment here again
 	public List<selectOption> getRecordTypes()
 	{
     List<selectOption> rTypes = new List<selectOption>();  
